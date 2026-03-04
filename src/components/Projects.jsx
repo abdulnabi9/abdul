@@ -3,7 +3,7 @@ const projects = [
     title: 'Face Recognition Attendance',
     description: 'Android app using ML Kit for real-time face detection and automated attendance tracking. Features include live camera preview, face matching with database, attendance reports, and export functionality.',
     tech: ['Kotlin', 'Jetpack Compose', 'ML Kit', 'Room DB', 'Firebase'],
-    github: 'https://github.com/abdulnabi9',
+    github: 'https://github.com/abdulnabi9/abdulnabi.ai',
     playstore: '#',
     featured: true,
   },
@@ -11,7 +11,7 @@ const projects = [
     title: 'Real-Time Tracking App',
     description: 'Android application that displays real-time user tracking using REST APIs and RecyclerView dashboards. Implements location services, geofencing, and interactive maps.',
     tech: ['Kotlin', 'MVVM', 'Retrofit', 'Google Maps', 'Coroutines'],
-    github: 'https://github.com/abdulnabi9',
+    github: 'https://github.com/abdulnabi9/abdulnabi.ai',
     playstore: '#',
     featured: true,
   },
@@ -19,7 +19,7 @@ const projects = [
     title: 'E-Commerce App',
     description: 'Full-featured shopping application with product catalog, cart management, payment integration, order tracking, and user authentication.',
     tech: ['Kotlin', 'Jetpack Compose', 'Hilt', 'Room', 'Payment Gateway'],
-    github: 'https://github.com/abdulnabi9',
+    github: 'https://github.com/abdulnabi9/abdulnabi.ai',
     playstore: '#',
     featured: false,
   },
@@ -27,7 +27,7 @@ const projects = [
     title: 'Chat Application',
     description: 'Real-time messaging app with support for text, images, and notifications. Features include online status, read receipts, and message encryption.',
     tech: ['Kotlin', 'Firebase', 'Coroutines', 'Material Design', 'Push Notifications'],
-    github: 'https://github.com/abdulnabi9',
+    github: 'https://github.com/abdulnabi9/abdulnabi.ai',
     playstore: '#',
     featured: false,
   },
@@ -35,7 +35,7 @@ const projects = [
     title: 'News Aggregator',
     description: 'News reading application that fetches articles from multiple sources, provides offline reading, bookmarking, and personalized recommendations.',
     tech: ['Kotlin', 'REST APIs', 'Room DB', 'Jetpack Compose', 'MVVM'],
-    github: 'https://github.com/abdulnabi9',
+    github: 'https://github.com/abdulnabi9/abdulnabi.ai',
     playstore: '#',
     featured: false,
   },
@@ -43,7 +43,7 @@ const projects = [
     title: 'Task Manager',
     description: 'Productivity application for task management with categories, priorities, due dates, and collaboration features. Includes local and cloud sync.',
     tech: ['Kotlin', 'Firebase', 'Jetpack Compose', 'Clean Architecture', 'DI'],
-    github: 'https://github.com/abdulnabi9',
+    github: 'https://github.com/abdulnabi9/abdulnabi.ai',
     playstore: '#',
     featured: false,
   },
@@ -136,7 +136,7 @@ const Projects = () => {
         {/* View More Button */}
         <div className="text-center mt-12">
           <a
-            href="https://github.com/abdulnabi9"
+            href="https://github.com/abdulnabi9/abdulnabi.ai"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 glass-card rounded-full font-medium hover:bg-white/10 transition-all group"

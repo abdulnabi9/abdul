@@ -2,7 +2,7 @@ const Contact = () => {
   const contactInfo = {
     email: 'nabiabdul943@gmail.com',
     phone: '+91 8686900096',
-    github: 'https://github.com/abdulnabi9',
+    github: 'https://github.com/abdulnabi9/abdulnabi.ai',
     linkedin: 'https://linkedin.com/in/abdulnabi',
     resume: '#',
   };
