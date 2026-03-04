@@ -5,7 +5,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abdulnabi9.github.io/abdulnabi.ai",
+  "homepage": "https://abdulnabi9.github.io/abdul/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
